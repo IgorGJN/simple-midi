@@ -16,7 +16,7 @@ Link -> [https://igorgjn.github.io/simple-midi/](https://igorgjn.github.io/simpl
 19 de Junho de 2022
 
 ## 🎨 Layout
-<code><img height="50%" src="https://igorgjn.github.io/simpli-midi/images/layout.png" alt="Layout do site"/></code>
+<code><img height="50%" src="/images/layout.png" alt="Layout do site"/></code>
 
 <!-- ## 🆕 Novidades
  
